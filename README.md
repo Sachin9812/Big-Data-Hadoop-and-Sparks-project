@@ -59,3 +59,14 @@ Check if age matters in marketing subscription for deposit
 Check if marital status mattered for a subscription to deposit
 Check if age and marital status together mattered for a subscription to deposit scheme
 Do feature engineering for the bank and find the right age effect on the campaign.
+
+Answers -
+
+1. Loaded data and created a Spark data frame.
+2. marketing success rate - 11.69 %
+3. marketing failure rate - 88.30 %
+4. maximum age = 95, minimum age = 18 and average age = 40.93 of the average targeted customer.
+5. average balance =1362.27 , median balance of customers = 448
+6. age matters in marketing subscription for deposit no= avearage is 40.83 & for deposit yes= average age is 41.67, it looks almost same average age of people.
+7. Yes, marital status mattered for a subscription to deposit.
+8.Young and middle age between 30-60 age effect on the campaign.
